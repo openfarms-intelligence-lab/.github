@@ -10,7 +10,7 @@ Our work combines software, agricultural knowledge, farm data, and artificial in
 
 ---
 
-## 🌱 What We're Building
+## What We're Building
 
 Our current focus is an **AI Extension Worker** for smallholder farmers.
 
@@ -26,7 +26,7 @@ We are building toward an assistant that can understand context such as:
 * Farmer observations
 * Seasonal conditions
 
-Instead of treating every farmer question as a new conversation, Openfarms aims to maintain a **persistent farm memory** that allows the system to provide increasingly relevant support throughout the farming season.
+Instead of treating every farmer question as a new conversation, Openfarms aims to maintain a **persistent farm memory** that allows the system to provide increasingly relevant support throughout the season.
 
 The goal is not simply an agricultural chatbot.
 
@@ -34,7 +34,7 @@ The goal is not simply an agricultural chatbot.
 
 ---
 
-## 🚜 From Prototype to Focused Product
+## From Prototype to Focused Product
 
 Openfarms started with an extensive prototype built during a hackathon.
 
@@ -46,7 +46,7 @@ The broader prototype remains valuable to our research and product roadmap, but 
 
 ---
 
-## 🧠 Our Approach
+## Our Approach
 
 A farmer creates a farm profile containing basic information such as crop, location, planting date, and farm size.
 
@@ -62,37 +62,7 @@ Over time, other signals such as weather, crop observations, disease information
 
 ---
 
-## 🏗️ Our Repositories
-
-Our platform is separated into three main services:
-
-### 🖥️ Frontend
-
-The farmer-facing application and user experience.
-
-**Focus:** onboarding, farm management, dashboards, agricultural tools, and interaction with Openfarms services.
-
-➡️ **[Open Frontend Repository](FRONTEND_REPOSITORY_URL)**
-
-### ⚙️ Backend
-
-The core application and data infrastructure.
-
-**Focus:** APIs, authentication, farm records, application logic, database operations, and service integrations.
-
-➡️ **[Open Backend Repository](BACKEND_REPOSITORY_URL)**
-
-### 🤖 AI Services
-
-The intelligence layer behind our AI-powered agricultural capabilities.
-
-**Focus:** AI orchestration, agricultural knowledge retrieval, contextual reasoning, farm intelligence, and experimentation with language models.
-
-➡️ **[Open AI Services Repository](AI_SERVICES_REPOSITORY_URL)**
-
----
-
-## 🌍 Built for African Farming
+## Built for African Farming
 
 Technology for African agriculture needs to account for the conditions in which farmers actually operate.
 
@@ -112,7 +82,7 @@ We are starting with the realities of farmers in **Nigeria**, while building wit
 
 ---
 
-## 🔭 Where We're Going
+## Where We're Going
 
 Our current priority is building and validating the AI Extension Worker.
 
@@ -133,7 +103,7 @@ Our approach is to **validate the core farmer problem first, learn from real usa
 
 ---
 
-## 👥 Team
+## Team
 
 Openfarms Lab is being built by a multidisciplinary team across engineering, product, design, operations, growth, customer success, partnerships, finance, and compliance.
 
@@ -149,7 +119,7 @@ Openfarms Lab is being built by a multidisciplinary team across engineering, pro
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 Openfarms Lab is actively learning, experimenting, and building.
 
@@ -167,10 +137,10 @@ If you are working on problems related to African agriculture, agricultural AI, 
 
 ---
 
-## 🌾 Our Vision
+## Our Vision
 
 We believe powerful agricultural technology should not be limited to large commercial farms.
 
-Our long-term vision is to make useful agricultural intelligence accessible to farmers across Africa — **starting with tools that understand the farmer, understand the farm, and help turn information into practical action.**
+Our long-term vision is to make useful agricultural intelligence accessible to farmers across Africa — **starting with tools that understand the farmer, understand the farm, and help turn information into action.**
 
 **Openfarms Lab — Technology built around the farmer.**
